@@ -191,3 +191,6 @@ public/assets
 
 # Ignore simplecov results
 coverage
+
+# Stop Tracking sqlite3 changes
+src/profiles_project/db.sqlite3
